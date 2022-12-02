@@ -1,0 +1,74 @@
+/* დაიწყო header */
+header {
+    border: 2px solid red;
+    width: 1280px;
+    height: 150px;
+    padding-top: 38px;
+    padding-right: 66px;
+    padding-bottom: 36px;
+    padding-left: 44px;
+    margin: 0 auto;
+}
+
+li {
+    display: inline-block;
+    margin-right: 95px;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: thin;
+
+}
+
+nav {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+h2 {
+    display: inline-block;
+    margin-right: 74px;
+    font-size: 70px;
+    vertical-align: middle;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.search {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    vertical-align: middle;
+}
+/* damtavrda feader */
+/* iwyeba main */
+main{
+    border: 2px solid blue;
+    width: 1280px;
+    height: 779px;
+   background-color: #306B34;
+   margin: 0 auto;
+   vertical-align: middle;
+}
+.foto{
+    vertical-align: middle;
+    padding-top: 174px;
+    padding-right: 89px;
+    padding-bottom:52px; 
+    padding-left:95px ;
+
+}
+div{
+    width: 306px;
+   display: inline-block;
+   vertical-align: middle;
+}
+h2{ font-size: 40px;
+   
+}
+p{
+    color: #F4F4F1;
+    font-size: 20px;
+    margin-top: 50px;
+    font-style: italic;
+    text-decoration-skip:2px ;
+}

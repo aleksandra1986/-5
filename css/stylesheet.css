@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('/font/');
+    src: url('/font/') format('embedded-opentype'),
+        url('/font/') format('woff2'),
+        url('/font/') format('woff'),
+        url('/font/') format('truetype'),
+        url('/font/') format('svg');
+    
+    font-style: normal;
+    font-display: swap;
+}
+
